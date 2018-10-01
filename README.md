@@ -28,7 +28,7 @@ PHP + Javascript
 Armando Urquiola - https://github.com/patchamama
 
 # License
-PgnViewerJS is licensed under the GPL 2.0, see the LICENSE.md file for details.
+chess-ebook-webparser is licensed under the GPL 2.0, see the LICENSE.md file for details.
 
 # Acknowledgments
 We use the following libraries in the implementation:
