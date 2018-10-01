@@ -9,7 +9,7 @@ The following is a example screenshot from:
 
 URL: _parseChess.php?url=http://blogs.deia.eus/ajedreztxiki/category/celadas-tipicas_
 
-![GitHub Logo](/example1.jpg)
+![GitHub Logo](/examples/example1.jpg)
 
 # Features
 This implementation has the following features:
