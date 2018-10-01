@@ -27,5 +27,22 @@ PHP + Javascript
 # Authors
 Armando Urquiola - https://github.com/patchamama
 
-License
+# License
 PgnViewerJS is licensed under the GPL 2.0, see the LICENSE.md file for details.
+
+# Acknowledgments
+We use the following libraries in the implementation:
+
+- PgnViewerJS to view and reproduce the PGN Notation extracted (parsed): https://github.com/mliebelt/PgnViewerJS
+- LT-PGN-VIEWER Javascript Library to conversions from PGN to FEN: http://www.lutanho.net/pgn/pgnviewer.html
+- Chess Diagram Setup to generate new Diagrams images: http://www.jinchess.com/chessboard/composer/
+
+Thank you a lot to all contributors of issues.
+
+# to Do
+- Integrate Stockfisch evaluation module https://github.com/exoticorn/stockfish-js
+- Recognize more epub Structures (not all are supported)
+- Define end language of result chess notation 
+- Change font, margin... of the end view
+- Read and recognize Descriptive notation: https://en.wikipedia.org/wiki/Descriptive_notation
+
