@@ -44,5 +44,5 @@ Thank you a lot to all contributors of issues.
 - Recognize more epub Structures (not all are supported)
 - Define end language of result chess notation 
 - Change font, margin... of the end view
-- Read and recognize Descriptive notation: https://en.wikipedia.org/wiki/Descriptive_notation
+- Read and recognize text with Descriptive notation: https://en.wikipedia.org/wiki/Descriptive_notation
 
