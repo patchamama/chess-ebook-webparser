@@ -43,6 +43,6 @@ Thank you a lot to all contributors of issues.
 - Integrate Stockfisch evaluation module https://github.com/exoticorn/stockfish-js
 - Recognize more epub Structures (not all are supported)
 - Define end language of result chess notation 
-- Change font, margin... of the end view
-- Read and recognize text with Descriptive notation: https://en.wikipedia.org/wiki/Descriptive_notation
+- Change font type, font size, margins... 
+- Read and recognize text with Descriptive notation: https://en.wikipedia.org/wiki/Descriptive_notation & http://www.abdelnauer.de/js/notation.htm
 
